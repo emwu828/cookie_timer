@@ -1,5 +1,5 @@
 # cookie_timer
-A Timer app for your favorite cookie recipes!
+A Timer app for your favorite cookie recipes! 🍪🌷🐶💜🌈
 ## Requirements
 1. **The usage of a minimum of at least three Activities:** MainActivity, DetailActivity, TimerActivity
 2. **The usage of a minimum of at-least one Service:** TimerService
