@@ -8,22 +8,22 @@ A Timer app for your favorite cookie recipes! 🍪🌷🐶💜🌈
 5. **The usage of a minimum one Fragment:** TimerDialogFragment
 ## Overview
 ### ViewModels:
-1.	RecipeViewModel: Expose observable state of Recipe dataSet and the dataSet's updating state.
-2.	TimerViewModel: Expose observable state of binder object and Timer updating state.
+1.	RecipeViewModel: Exposes observable state of Recipe dataSet and the dataSet's updating state.
+2.	TimerViewModel: Exposes observable state of binder object and Timer updating state.
 ### Activities:
-1.	MainActivity: Displays a scrollable recyclerView of recipe cards, toolbar menu, and a fab button. Clicking on fab button to add a new recipe. MainActivity observes the recipe dataSet and dataset updating state from RecipeViewModel to update the recyclerView UI and progress bar widget.
+1.	MainActivity: Displays a scrollable recyclerView of recipe cards, toolbar menu, and a fab button. Clicking on fab button to add a new recipe. MainActivity observes the recipe dataSet and dataset updating state from RecipeViewModel to update the recyclerView UI (when a new recipe is added) and progress bar widget (when the dataset is updating).
 2.	DetailActivity: Displays the detailed recipe information and a fab button. Clicking on the fab button will start TimerActivity.
-3.	TimerActivity: Displays the timer countdown with a start/pause button. Clicking on the button will toggle timer pause state in both TimerService and TimerViewModel. TimerActivity observes timer state and service bound state from TimerViewModel to update timer countdown UI.
+3.	TimerActivity: Displays the timer countdown with a start/pause button. Clicking on the button will update the timer running state in both TimerService and TimerViewModel. TimerActivity observes timer running state and service bound state of TimerViewModel to update the timer countdown UI.
 ### Fragments:
 1.	TimerDialogFragment: Displays a dialog fragment to prompt user to set a timer. Sends timer input to TimerActivity and TimerService.
 ### Services:
-1.	TimerService: Provides methods to set timer and start/pause the timer with the help of a handler object that schedules updates to a timer progress variable. This bound service allows the timer to continue running even when the activity is in the background. It gets unbound when the activity is destroyed.
+1.	TimerService: Provides methods to set timer and start/pause the timer with the help of a handler object that schedules updates to a timer progress variable. This bound service allows the timer to continue running even when the activity is in the background if the user wants to interact with another app when waiting for the timer to finish.
 ### Adapters:
-1.	RecyclerAdaper: Provides binding for recipe data to display in MainActivity's recyclerView. This adapter creates views for items, and replaces the content of some of the views with new data items when the original item is no longer visible with the help of a ViewHolder.
+1.	RecyclerAdaper: Provides binding for recipe data to display in MainActivity's recyclerView.
 ### Models:
 1.	Recipe: Defines a recipe object containing an image URL, recipe title, recipe ingredients, and recipe instructions. Implements Parcelable.
 ### Repositories:
-1.	RecipeRepository: Provides RecipeViewModel with a repository instance and pretends to update the dataSet in a background thread. ( local database was not implemented for this project)
+1.	RecipeRepository: Provides RecipeViewModel with a repository instance and pretends to update the dataSet in a background thread. (local database was not implemented for this project due to time constraint)
 ### Layouts:
 1.	Main Activity Layouts
 - activity_main.xml: Contains toolbar, fab button, and content_main.xml.
