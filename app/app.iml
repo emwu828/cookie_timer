@@ -17,101 +17,101 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../project-emwu/app/src/main/res;file://$MODULE_DIR$/../../project-emwu/app/build/generated/res/rs/debug;file://$MODULE_DIR$/../../project-emwu/app/build/generated/res/resValues/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/res;file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/res/rs/debug;file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/res/resValues/debug" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
-    <output url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
-    <output-test url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <output url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../project-emwu/app">
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/source/apt/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/res/rs/debug" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/res/resValues/debug" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/source/apt/test/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/debug/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/debug/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/debug/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/debug/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/debug/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/debug/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/debug/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTestDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTestDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTestDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTestDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTestDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTestDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTestDebug/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/testDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/testDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/testDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/testDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/testDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/testDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/testDebug/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/main/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/main/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/main/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/main/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/main/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTest/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTest/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTest/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTest/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTest/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTest/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/androidTest/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/test/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/test/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/test/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/test/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../project-emwu/app/src/test/shaders" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/not_namespaced_r_class_sources" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/generated/source/r" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/annotation_processor_list" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/apk_list" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/blame" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/bundle_manifest" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/check_manifest_result" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/compatible_screen_manifest" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/dex" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/incremental" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/instant_app_manifest" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/instant_run_merged_manifests" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/javac" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/jniLibs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/lint_jar" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/merged_assets" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/merged_manifests" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/metadata_feature_manifest" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/prebuild" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/processed_res" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/res" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/rs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/shader_assets" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/shaders" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/signing_config" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/symbols" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/transforms" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/intermediates/validate_signing_config" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/outputs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../project-emwu/app/build/tmp" />
+    <content url="file://$USER_HOME$/Documents/onRamp/project-emwu/app">
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/not_namespaced_r_class_sources" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/generated/source/r" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/annotation_processor_list" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/apk_list" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/blame" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/bundle_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/check_manifest_result" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/compatible_screen_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/dex" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/incremental" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/instant_app_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/instant_run_merged_manifests" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/javac" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/jniLibs" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/lint_jar" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/merged_assets" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/merged_manifests" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/metadata_feature_manifest" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/prebuild" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/processed_res" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/res" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/rs" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/shader_assets" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/shaders" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/signing_config" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/symbols" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/transforms" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/intermediates/validate_signing_config" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/outputs" />
+      <excludeFolder url="file://$USER_HOME$/Documents/onRamp/project-emwu/app/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
